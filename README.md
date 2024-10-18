@@ -26,7 +26,7 @@ A **Dofus 1.29 emulator** implemented in **Java**, allowing players to experienc
 A modern **file manager for Linux**, built with **Kotlin** and **TornadoFX**. It provides an intuitive interface and lightweight performance, making it suitable for users seeking a streamlined file management experience.
 
 ### [Prototex](https://github.com/BotanAtomic/Prototex)
-A **text generation project** focused on creating coherent and contextually accurate text using **advanced language models**. It explores techniques in **natural language processing** and **transformer architectures** to generate high-quality written content.
+An **event-driven asynchronous TCP network application** based on **Netty**. Prototex is designed for real-time, bidirectional communication, with support for custom serialization, auto-reconnection, and a flexible packet registry. It emphasizes **speed, security, and reliability** across different platforms and devices.
 
 ## 🧠 Skills & Technologies
 - **Programming Languages**: Python, C++, Kotlin, Java, Rust, Matlab.
