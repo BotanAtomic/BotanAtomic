@@ -11,7 +11,7 @@ Welcome! I'm Botan Ahmad, a Senior Data Scientist and ML Engineer specializing i
 - 🚀 Co-founded **Deepn**, an algorithmic trading platform, where I developed a custom programming language called **Flow** to optimize trading strategies.
 
 ## 🛠️ Projects
-Here are some highlights from my work:
+Here are some highlights from my public work:
 
 ### [FaceID](https://github.com/BotanAtomic/FaceID)
 A face recognition system leveraging deep learning techniques for identity verification. It employs cutting-edge computer vision and neural network approaches to ensure high accuracy and performance.
